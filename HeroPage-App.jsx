@@ -23,7 +23,7 @@ const App = () => {
 <section className='bg-contain bg-no-repeat bg-right  ' style={{backgroundImage:`url("https://static.vecteezy.com/system/resources/previews/020/328/693/original/3d-white-particle-wave-pattern-on-a-black-background-digital-abstract-background-can-be-applied-for-web-design-website-wallpaper-banner-or-cover-illustration-vector.jpg")`}}>
 <div className="hero flex text-white pt-14 ">
 
-  <div className=' max-w-3xl mx-auto flex items-center '>
+  <div className=' max-w-3xl mx-auto flex items-center'>
     <p className='text-8xl font-black leading-[92px]'>THE<br/> SHOE <br/>COMPANY</p>
   </div>
   <div className=''>
